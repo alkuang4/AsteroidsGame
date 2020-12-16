@@ -1,4 +1,4 @@
-ArrayList<Asteroid>hob =new ArrayList<Asteroid>();
+ArrayList<Asteroid> hob =new ArrayList<Asteroid>();
 Spaceship bob=new Spaceship();
 Star[]job=new Star[100];
 public void setup() 
